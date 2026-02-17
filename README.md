@@ -19,7 +19,7 @@ This project uses an Arduino Uno to monitor room temperature and automatically c
 ![image alt](https://github.com/am0ghh/fans/blob/main/fanswiring.png)
 
 ## Circuit Schematic
-
+![image alt](https://github.com/am0ghh/fans/blob/main/fans_schematic.png)
 
 ### IR Transmitter Circuit (with Transistor)
 ```
